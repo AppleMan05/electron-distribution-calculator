@@ -16,5 +16,5 @@ Step 3: cd into the folder where you downloaded the file, and run the file with 
 <br />
 Roadmap: <br />
 1: Include all the elements <br />
-2: Add support for ions
+2: Add support for ions <br />
 3: Make a GUI
