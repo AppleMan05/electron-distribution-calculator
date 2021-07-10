@@ -18,3 +18,6 @@ Roadmap: <br />
 1: Include all the elements <br />
 2: Add support for ions <br />
 3: Make a GUI
+<br />
+<br />
+Credits to https://pypi.org/project/mendeleev/ for the python module.
