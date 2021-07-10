@@ -3,3 +3,9 @@ Really bad electron distribution calculator. As you can see it has extremely slo
 
 Currently supports upto element 38(Strontium)
 Accepts atomic numbers and symbols as input.
+
+
+Instructions to run:
+Step 1: Install python on your PC. <br />
+Step 2: run `pip install mendeleev` <br />
+Step 3: cd into the folder where you downloaded the file, and run the file with `python 'electron distribution.py'`
