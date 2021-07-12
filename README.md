@@ -16,9 +16,9 @@ Step 5: cd into the folder where you downloaded the file, and run the file with 
 <br />
 <br />
 Roadmap: <br />
-1: Include all the elements <br />
+1: Include all the elements <br /> DONE!
 2: Add support for ions <br />
-3: Make a GUI
+3: Make a GUI      DONE!
 <br />
 <br />
 Credits to https://pypi.org/project/mendeleev/ for the python module.
