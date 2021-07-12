@@ -4,7 +4,7 @@ Really bad electron distribution calculator. As you can see it has extremely slo
 Accepts names and symbols as input. IS CASE SENSITIVE
 
 
-Instructions to run:
+Instructions to run: <br />
 Step 1: Install python on your PC. <br />
 Step 2: run `pip install mendeleev` <br />
 Step 3: run `pip install pyqt5` <br />
