@@ -1,14 +1,15 @@
 # electron-distribution-calculator
 Really bad electron distribution calculator. As you can see it has extremely sloppy code.
 
-Currently supports upto element 38(Strontium)
-Accepts atomic numbers and symbols as input.
+Accepts names and symbols as input. IS CASE SENSITIVE
 
 
 Instructions to run:
 Step 1: Install python on your PC. <br />
 Step 2: run `pip install mendeleev` <br />
-Step 3: cd into the folder where you downloaded the file, and run the file with `python 'electron distribution.py'`
+Step 3: run `pip install pyqt5` <br />
+Step 4: run `pip install pyqt5-tools` <br />
+Step 5: cd into the folder where you downloaded the file, and run the file with `python 'electron calc.py'`
 
 <br />
 <br />
